@@ -38,5 +38,5 @@ Rules the agent follows:
 ## Index
 
 <!-- index:start -->
-_No digests yet._
+- [2026-11-13](digests/2026/11/2026-11-13.md)
 <!-- index:end -->
