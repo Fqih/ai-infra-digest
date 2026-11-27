@@ -35,6 +35,15 @@ Rules the agent follows:
 - If the LLM is unavailable, that day is skipped instead of being published
   without summaries.
 
+## Following along
+
+GitHub publishes an Atom feed of this repo's commits, so a feed reader picks
+up  each new digest:
+
+```
+https://github.com/Fqih/ai-infra-digest/commits/main.atom
+```
+
 ## Index
 
 <!-- index:start -->
